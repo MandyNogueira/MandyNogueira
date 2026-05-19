@@ -2,7 +2,6 @@
 
 Sou estudante do *8º período de Engenharia de Software* e estou em busca da minha primeira oportunidade no mercado de tecnologia. Tenho interesse tanto no desenvolvimento de software (com foco em backend e frontend) quanto na lógica por trás de circuitos eletrônicos.
 
-
 # Foco de Estudo Atual
 
 Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em:
